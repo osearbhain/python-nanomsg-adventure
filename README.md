@@ -1,7 +1,7 @@
 # python-nanomsg-adventure
 Experiments with nanomsg using Python
 
-<h2>nanopushsrvr.py, nanopullsrvr.py</h2>
+<h2>nanopushsrvr.py, nanopullclnt.py</h2>
 
 Requires:
   
